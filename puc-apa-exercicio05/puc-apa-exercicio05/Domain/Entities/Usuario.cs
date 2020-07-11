@@ -4,7 +4,7 @@ using System.Text;
 
 namespace puc_apa_exercicio05.Domain.Entities
 {
-	public class Usuario: BaseEntity
+	public class UsuarioEntity: BaseEntity
 	{
 		public string Cpf { get; set; }
 
