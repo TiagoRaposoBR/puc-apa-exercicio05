@@ -5,7 +5,7 @@ using System.Text;
 
 namespace puc_apa_exercicio05.Domain.Entities
 {
-    public abstract class PedidoEntity : BaseEntity
+    public class PedidoEntity : BaseEntity
     {
 
         public int IdUsuario { get; set; }
